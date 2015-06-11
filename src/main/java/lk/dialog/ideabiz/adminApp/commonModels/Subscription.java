@@ -1,6 +1,6 @@
-package lk.dialog.ideabiz.adminApp.commonModel;
+package lk.dialog.ideabiz.adminApp.commonModels;
 
-import lk.dialog.ideabiz.adminApp.commonModel.Enumarator.SUBSCRIPTION_STATUS;
+import lk.dialog.ideabiz.adminApp.commonModels.Enumarator.SUBSCRIPTION_STATUS;
 
 /**
  * Created by Malinda on 6/9/2015.

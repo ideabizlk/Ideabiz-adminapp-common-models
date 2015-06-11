@@ -1,10 +1,8 @@
-package lk.dialog.ideabiz.adminApp.commonModel;
+package lk.dialog.ideabiz.adminApp.commonModels;
 
-import lk.dialog.ideabiz.adminApp.commonModel.Enumarator.EVENT_STATUS;
-import lk.dialog.ideabiz.adminApp.commonModel.Enumarator.EVENT_TRIGGER;
-import lk.dialog.ideabiz.adminApp.commonModel.Enumarator.EVENT_TYPE;
-
-import java.util.Date;
+import lk.dialog.ideabiz.adminApp.commonModels.Enumarator.EVENT_STATUS;
+import lk.dialog.ideabiz.adminApp.commonModels.Enumarator.EVENT_TRIGGER;
+import lk.dialog.ideabiz.adminApp.commonModels.Enumarator.EVENT_TYPE;
 
 /**
  * Created by Malinda on 6/9/2015.

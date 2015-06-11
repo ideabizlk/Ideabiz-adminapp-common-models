@@ -1,4 +1,4 @@
-package lk.dialog.ideabiz.adminApp.commonModel;
+package lk.dialog.ideabiz.adminApp.commonModels;
 
 import java.util.ArrayList;
 

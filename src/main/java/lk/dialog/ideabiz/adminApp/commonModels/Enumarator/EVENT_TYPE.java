@@ -1,4 +1,4 @@
-package lk.dialog.ideabiz.adminApp.commonModel.Enumarator;
+package lk.dialog.ideabiz.adminApp.commonModels.Enumarator;
 
 /**
  * Created by Malinda on 6/9/2015.

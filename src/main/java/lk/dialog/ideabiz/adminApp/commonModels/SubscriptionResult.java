@@ -1,4 +1,4 @@
-package lk.dialog.ideabiz.adminApp.commonModel;
+package lk.dialog.ideabiz.adminApp.commonModels;
 
 /**
  * Created by Malinda on 6/9/2015.
